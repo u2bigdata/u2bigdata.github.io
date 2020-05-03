@@ -37,7 +37,7 @@ The topics for the workshop including but not limited to:
 -	Wutao Wei, Senior Data Scientist at Twitter
 -	Ying Lu, VP of Engineering, Points Technology
 
-## Communications
+## Contact Information
 - Email: u2bigdata@gmail.com
 
 ## Program Committee Members
