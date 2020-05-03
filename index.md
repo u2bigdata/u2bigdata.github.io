@@ -37,6 +37,9 @@ The topics for the workshop including but not limited to:
 -	Wutao Wei, Senior Data Scientist at Twitter
 -	Ying Lu, VP of Engineering, Points Technology
 
+## Communications
+- Email: u2bigdata@gmail.com
+
 ## Program Committee Members
 -	Lingzhou Xue, Assistant Professor, Penn State University
 -	Danning Li, Assistant Professor, Jilin University
@@ -45,3 +48,5 @@ The topics for the workshop including but not limited to:
 -	Owen Ho, Sr Marketing Insights Manager, Microsoft
 -	Alex Thayer, Head of Research, Amazon Search
 -	Makiko Taniguchi, Principal User Researcher, Amazon
+
+
