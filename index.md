@@ -31,11 +31,14 @@ The topics for the workshop including but not limited to:
 
 ## Paper Submission
 Please submit a full-length paper (up to **10 page IEEE 2-column format**) through the online submission system.
+
 [Paper Submission Page](https://wi-lab.com/cyberchair/2020/bigdata20/scripts/submit.php?subarea=S22&undisplay_detail=1&wh=/cyberchair/2020/bigdata20/scripts/ws_submit.php)
+
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
 
 ### Formatting Instructions
 8.5" x 11" ([DOC](http://bigdataieee.org/BigData2020/files/Conference-template-letter.doc), [PDF](http://bigdataieee.org/BigData2020/files/IEEEtran_HOWTO.pdf))
+
 [LaTex Formatting Macros](http://bigdataieee.org/BigData2020/files/Conference-LaTeX-template_7-9-18.zip)
 
 ## Important dates 
