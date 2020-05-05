@@ -29,6 +29,15 @@ The topics for the workshop including but not limited to:
 -	Data integration in product development cycle
 -	Privacy and data protection in user research
 
+## Paper Submission
+Please submit a full-length paper (up to 10 page IEEE 2-column format) through the online submission system.
+Paper Submission Page
+Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
+
+### Formatting Instructions
+8.5" x 11" ([DOC|http://bigdataieee.org/BigData2020/files/Conference-template-letter.doc], PDF)
+LaTex Formatting Macros
+
 ## Important dates 
 -	Oct 15, 2020: Due date for full workshop papers submission
 -	Nov 1, 2020: Notification of paper acceptance to authors
