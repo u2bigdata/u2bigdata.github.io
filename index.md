@@ -35,7 +35,7 @@ Paper Submission Page
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
 
 ### Formatting Instructions
-8.5" x 11" ([DOC|http://bigdataieee.org/BigData2020/files/Conference-template-letter.doc], PDF)
+8.5" x 11" ([DOC](http://bigdataieee.org/BigData2020/files/Conference-template-letter.doc), PDF)
 LaTex Formatting Macros
 
 ## Important dates 
