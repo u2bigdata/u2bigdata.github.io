@@ -1,3 +1,6 @@
+## Important Message
+The workshop will be compliance with the main conference - taking place virtually (a complete online event). However, the workshop dates, proceedings and publications will continue as planned.
+
 ## Scope of the Workshop
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2020](http://bigdataieee.org/BigData2020/).
 
