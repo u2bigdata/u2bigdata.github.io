@@ -60,10 +60,10 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 -	Danning Li, Assistant Professor, Jilin University
 -	Wenxing Ye, Sr Researcher, Google
 -	Wenjie Sha, Sr Software Engineer, Uber
+- Danqing Xu, Manager, Statistics, AbbVie
 -	Owen Ho, Sr Marketing Insights Manager, Microsoft
 -	Alex Thayer, Head of Research, Amazon Search
 -	Makiko Taniguchi, Principal User Researcher, Amazon
-- Danqing Xu, Manager, Statistics, AbbVie
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
