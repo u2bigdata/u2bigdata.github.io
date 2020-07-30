@@ -63,6 +63,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 -	Owen Ho, Sr Marketing Insights Manager, Microsoft
 -	Alex Thayer, Head of Research, Amazon Search
 -	Makiko Taniguchi, Principal User Researcher, Amazon
+- Danqing Xu, Manager, Statistics, AbbVie
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
