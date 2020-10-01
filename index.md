@@ -53,7 +53,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 ## Program Chairs
 -	Claire Ding, Research Scientist at Amazon
 -	Wutao Wei, Senior Data Scientist at Twitter
--	Ying Lu, VP of Engineering, Points Technology
+-	Ying Lu, Senior Data Scientist at Google
 
 ## Program Committee Members
 -	Lingzhou Xue, Assistant Professor, Penn State University
