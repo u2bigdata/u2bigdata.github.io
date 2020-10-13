@@ -47,9 +47,9 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 [LaTex Formatting Macros](http://bigdataieee.org/BigData2020/files/Conference-LaTeX-template_7-9-18.zip)
 
 ## Important dates 
--	~Oct 15, 2020~ <span style="color:red"> **Oct 31, 2020** </span>: Due date for full workshop papers submission
--	~Nov 1, 2020~ <span style="color:red"> **Nov 9, 2020** </span>: Notification of paper acceptance to authors
--	~Nov 15, 2020~ <span style="color:red"> **Nov 20, 2020** </span>: Camera-ready of accepted papers
+-	<s>Oct 15, 2020</s> <span style="color:red"> **Oct 31, 2020** </span>: Due date for full workshop papers submission
+-	<s>Nov 1, 2020</s> <span style="color:red"> **Nov 9, 2020** </span>: Notification of paper acceptance to authors
+-	<s>Nov 15, 2020</s> <span style="color:red"> **Nov 20, 2020** </span>: Camera-ready of accepted papers
 -	Dec 10-13, 2020: Workshops
 
 ## Program Chairs
