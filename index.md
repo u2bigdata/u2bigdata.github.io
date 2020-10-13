@@ -1,5 +1,5 @@
 ## Important Message
-Please note, the paper submission deadline has been extended to **Oct 31, 2020**.
+Please note, the paper submission deadline has been extended to <span style="color:red"> **Oct 31, 2020** </span>.
 
 The workshop will be compliance with the main conference - taking place virtually (a complete online event). However, the workshop dates, proceedings and publications will continue as planned.
 
