@@ -6,7 +6,7 @@ The workshop will be compliance with the main conference - taking place virtuall
 ## Workshop Schedule
 
 <table>
-     <th colspan="3">User Understanding from BigData<br>Workshop Chairs: Claire Ding, Wutao Wei, Ying Lu</th>
+     <th colspan="3">User Understanding from BigData<br>December 12th 2020, Virtually<br>Workshop Chairs: Claire Ding, Wutao Wei, Ying Lu</th>
   <tr>
     <td class="tg-0pky">Time (Est)</td>
     <td class="tg-0pky">Title</td>
