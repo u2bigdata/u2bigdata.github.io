@@ -1,8 +1,3 @@
-## Important Message
-Thank you for all the authors' contribution, you will get a decision by <span style="color:red"> **Nov 9th, 2020** </span>.
-
-The workshop will be compliance with the main conference - taking place virtually (a complete online event). However, the workshop dates, proceedings and publications will continue as planned.
-
 ## Workshop Schedule
 
 <table>
