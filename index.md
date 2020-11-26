@@ -4,16 +4,52 @@ Thank you for all the authors' contribution, you will get a decision by <span st
 The workshop will be compliance with the main conference - taking place virtually (a complete online event). However, the workshop dates, proceedings and publications will continue as planned.
 
 ## Workshop Schedule
-|| User Understanding from BigData WorkshopChairs: Claire Ding, Wutao Wei, Ying Lu ||
-|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Time (Est)                                                                      | Title                                                                                                             | Presenter/Author                                                                              |
-| 11:30 – 11:40 am                                                                | Opening Remarks                                                                                                   | Claire Ding, Wutao Wei, Ying Lu                                                               |
-| 11:40 – 12:10 pm                                                                | S22202: Representation of Click-Stream DataSequences for  Learning User Navigational Behavior by Using Embeddings | Erdi Olmezogullari and Mehmet Aktas                                                           |
-| 12:10 - 12:20 pm                                                                | Coffee Break                                                                                                      |                                                                                               |
-| 12:20 - 12:50 pm                                                                | S22206: Understanding User Understanding: What do  Developers Expect from a Cognitive Assistant?                  | Glaucia Melo, Edith Law, Paulo Alencar, & Donald Cowan                                        |
-| 12:50 – 1:20 pm                                                                 | S22207: On Variational Inference for User Modeling  in Attribute-Driven Collaborative Filtering                   | Venugopal Mani, Ramasubramanian Balasubramanian, Sushant Kumar, Abhinav Mathur & Kannan Achan |
-| 1:20 – 1:30 Closing Remarks                                                     |                                                                                                                   |                                                                                               |
-
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">User Understanding from BigData<br>WorkshopChairs: Claire Ding, Wutao Wei, Ying Lu</th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Time (Est)</td>
+    <td class="tg-0pky">Title</td>
+    <td class="tg-0pky">Presenter/Author</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:30 – 11:40 am</td>
+    <td class="tg-0pky">Opening Remarks</td>
+    <td class="tg-0pky">Claire Ding, Wutao Wei, Ying Lu</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:40 – 12:10 pm</td>
+    <td class="tg-0pky">S22202:<br>Representation of Click-Stream DataSequences for <br>Learning User Navigational Behavior by Using Embeddings</td>
+    <td class="tg-0pky">Erdi Olmezogullari and Mehmet Aktas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:10 - 12:20 pm</td>
+    <td class="tg-0pky">Coffee Break</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:20 - 12:50 pm</td>
+    <td class="tg-0pky">S22206:<br>Understanding User Understanding: What do <br>Developers Expect from a Cognitive Assistant?</td>
+    <td class="tg-0pky">Glaucia Melo, Edith Law, Paulo Alencar, &amp; Donald Cowan</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:50 – 1:20 pm</td>
+    <td class="tg-0pky">S22207:<br>On Variational Inference for User Modeling<br> in Attribute-Driven Collaborative Filtering</td>
+    <td class="tg-0pky">Venugopal Mani, Ramasubramanian Balasubramanian, Sushant Kumar, Abhinav Mathur &amp; Kannan Achan</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1:20 – 1:30 Closing Remarks</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 ## Scope of the Workshop
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2020](http://bigdataieee.org/BigData2020/).
