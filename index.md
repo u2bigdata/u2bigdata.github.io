@@ -1,5 +1,4 @@
 ## Workshop Schedule
-
 <table>
      <th colspan="3">User Understanding from BigData<br>December 12th 2020, Virtually<br>Workshop Chairs: Claire Ding, Wutao Wei, Ying Lu</th>
   <tr>
@@ -83,8 +82,8 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 
 ## Important dates 
 -	<s><span style="color:red"> Oct 31, 2020 </span>: Due date for full workshop papers submission </s>
--	<span style="color:red"> Nov 9, 2020 </span>: Notification of paper acceptance to authors
--	<span style="color:red"> Nov 20, 2020 </span>: Camera-ready of accepted papers
+-	<s><span style="color:red"> Nov 9, 2020 </span>: Notification of paper acceptance to authors </s>
+-	<s><span style="color:red"> Nov 20, 2020 </span>: Camera-ready of accepted papers </s>
 -	<span style="color:red"> Dec 10-13, 2020</span>: Workshops
 
 ## Program Chairs
