@@ -7,9 +7,7 @@ The workshop will be compliance with the main conference - taking place virtuall
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky">User Understanding from BigData<br>WorkshopChairs: Claire Ding, Wutao Wei, Ying Lu</th>
-    <th class="tg-0pky"></th>
+    <th colspan="3">User Understanding from BigData<br>Workshop Chairs: Claire Ding, Wutao Wei, Ying Lu</th>
   </tr>
 </thead>
 <tbody>
