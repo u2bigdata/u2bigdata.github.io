@@ -23,28 +23,27 @@ The workshop will be compliance with the main conference - taking place virtuall
   </tr>
   <tr>
     <td class="tg-0pky">11:40 – 12:10 pm</td>
-    <td class="tg-0pky">S22202:<br>Representation of Click-Stream DataSequences for <br>Learning User Navigational Behavior by Using Embeddings</td>
+    <td class="tg-0pky">S22202: Representation of Click-Stream DataSequences for Learning User Navigational Behavior by Using Embeddings</td>
     <td class="tg-0pky">Erdi Olmezogullari and Mehmet Aktas</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:10 - 12:20 pm</td>
-    <td class="tg-0pky">Coffee Break</td>
-    <td class="tg-0pky"></td>
+    <th colspan="3">Coffee Break</th>
   </tr>
   <tr>
     <td class="tg-0pky">12:20 - 12:50 pm</td>
-    <td class="tg-0pky">S22206:<br>Understanding User Understanding: What do <br>Developers Expect from a Cognitive Assistant?</td>
+    <td class="tg-0pky">S22206: Understanding User Understanding: What do Developers Expect from a Cognitive Assistant?</td>
     <td class="tg-0pky">Glaucia Melo, Edith Law, Paulo Alencar, &amp; Donald Cowan</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:50 – 1:20 pm</td>
-    <td class="tg-0pky">S22207:<br>On Variational Inference for User Modeling<br> in Attribute-Driven Collaborative Filtering</td>
+    <td class="tg-0pky">S22207: On Variational Inference for User Modeling in Attribute-Driven Collaborative Filtering</td>
     <td class="tg-0pky">Venugopal Mani, Ramasubramanian Balasubramanian, Sushant Kumar, Abhinav Mathur &amp; Kannan Achan</td>
   </tr>
   <tr>
-    <td class="tg-0pky">1:20 – 1:30 Closing Remarks</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">1:20 – 1:30 pm</td> 
+    <th colspan="3">Closing Remarks</th>
+    <
   </tr>
 </tbody>
 </table>
