@@ -4,13 +4,9 @@ Thank you for all the authors' contribution, you will get a decision by <span st
 The workshop will be compliance with the main conference - taking place virtually (a complete online event). However, the workshop dates, proceedings and publications will continue as planned.
 
 ## Workshop Schedule
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="3">User Understanding from BigData<br>Workshop Chairs: Claire Ding, Wutao Wei, Ying Lu</th>
-  </tr>
-</thead>
-<tbody>
+
+<table>
+     <th colspan="3">User Understanding from BigData<br>Workshop Chairs: Claire Ding, Wutao Wei, Ying Lu</th>
   <tr>
     <td class="tg-0pky">Time (Est)</td>
     <td class="tg-0pky">Title</td>
@@ -45,7 +41,6 @@ The workshop will be compliance with the main conference - taking place virtuall
     <th colspan="3">Closing Remarks</th>
     <
   </tr>
-</tbody>
 </table>
 
 ## Scope of the Workshop
