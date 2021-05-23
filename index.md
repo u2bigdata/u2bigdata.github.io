@@ -66,3 +66,6 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 ## Contact Information
 - Email: u2bigdata@gmail.com
 
+## Past Workshop
+ - [U2BigData 2020](http://u2bigdata.github.io/2020)
+
