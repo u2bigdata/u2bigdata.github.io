@@ -37,9 +37,9 @@ Please submit a full-length paper (up to **10 page IEEE 2-column format**) throu
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
 
 ### Formatting Instructions
-8.5" x 11" ([DOC](http://bigdataieee.org/BigData2020/files/Conference-template-letter.doc), [PDF](http://bigdataieee.org/BigData2020/files/IEEEtran_HOWTO.pdf))
+8.5" x 11" ([DOC](http://bigdataieee.org/BigData2021/files/Conference-template-letter.doc), [PDF](http://bigdataieee.org/BigData2020/files/IEEEtran_HOWTO.pdf))
 
-[LaTex Formatting Macros](http://bigdataieee.org/BigData2020/files/Conference-LaTeX-template_7-9-18.zip)
+[LaTex Formatting Macros](http://bigdataieee.org/BigData2021/files/Conference-LaTeX-template_7-9-18.zip)
 
 ## Important dates 
 -	<span style="color:red"> Oct 15, 2021 </span>: Due date for full workshop papers submission
