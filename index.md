@@ -56,7 +56,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Danqing Xu, Manager, Statistics, AbbVie
 -	Owen Ho, Sr Marketing Insights Manager, Microsoft
 -	Fei Gao, Quantitative UX Researcher, Facebook
--	Makiko Taniguchi, Principal User Researcher, Amazon
+-	Alice Zhou, Applied Scientist, Amazon
 - Qiaochu (Frank) Zhang, Research Engineer, Facebook AI
 - Chunxu Tang, Machine Learning Engineer, Twitter
 
