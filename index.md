@@ -1,4 +1,4 @@
-## Scope of the Workshop
+## The 2nd International Workshop on User Understanding from Big Data Workshop (U2BigData 2021)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2021](http://bigdataieee.org/BigData2021/).
 
 ## Call for Papers
