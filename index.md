@@ -32,7 +32,7 @@ The topics for the workshop including but not limited to:
 ## Paper Submission
 Please submit a full-length paper (up to **10 page IEEE 2-column format**) through the online submission system.
 
-[Paper Submission Page](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S22&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php)
+[Paper Submission Page](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S16&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php)
 
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
 
