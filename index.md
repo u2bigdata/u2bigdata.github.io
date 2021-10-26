@@ -42,7 +42,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 [LaTex Formatting Macros](http://bigdataieee.org/BigData2021/files/Conference-LaTeX-template_7-9-18.zip)
 
 ## Important dates 
--	<span style="color:red"> Oct 25, 2021 </span>: Due date for full workshop papers submission (New Date)
+-	<span style="color:red"> Oct 31, 2021 </span>: Due date for full workshop papers submission (New Date)
 -	<span style="color:red"> Nov 7, 2021 </span>: Notification of paper acceptance to authors 
 -	<span style="color:red"> Nov 15, 2021 </span>: Camera-ready of accepted papers 
 -	<span style="color:red"> Dec 10-13, 2021</span>: Workshops
