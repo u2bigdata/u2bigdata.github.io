@@ -55,10 +55,12 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 ## Program Committee Members
 - Danqing Xu, Manager, Statistics, AbbVie
 -	Owen Ho, Sr Marketing Insights Manager, Microsoft
+-	Jack Hu, Senior Data Scientist at Twitter
 -	Fei Gao, Quantitative UX Researcher, Facebook
 -	Alice Zhou, Applied Scientist, Amazon
 - Qiaochu (Frank) Zhang, Research Engineer, Facebook AI
 - Chunxu Tang, Machine Learning Engineer, Twitter
+- Wenting Long, Post Doctoral Researcher, Yale
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
