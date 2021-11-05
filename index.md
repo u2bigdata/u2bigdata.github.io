@@ -61,6 +61,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Qiaochu (Frank) Zhang, Research Engineer, Facebook AI
 - Chunxu Tang, Machine Learning Engineer, Twitter
 - Wenting Long, Post Doctoral Researcher, Yale
+- Jiexin Duan, Sr Quant Researcher, Moody's Corporation
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
