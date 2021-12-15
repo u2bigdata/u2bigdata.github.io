@@ -1,6 +1,12 @@
 ## The 2nd International Workshop on User Understanding from Big Data Workshop (U2BigData 2021)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2021](http://bigdataieee.org/BigData2021/).
 
+## Schedule
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| 2:40-3:10pm      | S16205 "A Short Survey on Forest Based Heterogeneous Treatment Effect Estimation Methods: Meta-learners and Specific Models" | Hao Jiang, Peng Qi, Jingying Zhou, Jack Zhou, and Sharath Rao   |
+| Paragraph   | Text        | And more      |
+
 ## Call for Papers
 The availability of massive amounts of data has driven significant progress in the field of AI, in particular, data driven methods to understand human behavior has been an emerging topic in social science and human studies. Most internet companies need to leverage user level data from different sources to understand how users interact with their products in various scenarios and contexts. Quantitative techniques would increase generalizability of research conclusions regarding user mental models to provide frameworks for user understanding. On the other hand, large scale data can be critical to customize approaches in gaining user traction, improve user experience and monetization for different user groups. We’ve seen tremendous applications in this space, including but not limited to recommendation, marketing, online experiments, to name just a few. Fundamental understanding also requires methods such as statistical sampling, data visualization, funnel analysis, experimental design, causal inference etc.
 
