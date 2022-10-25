@@ -62,6 +62,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Chunxu Tang, Machine Learning Engineer, Twitter
 - Wenting Long, Post Doctoral Researcher, Yale
 - Jiexin Duan, Sr Financial Modeler, Moody's Corporation
+- Mi Feng, Sr Software Engineer, Twitter
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
