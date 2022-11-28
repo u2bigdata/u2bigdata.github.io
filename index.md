@@ -1,6 +1,28 @@
 ## The 3nd International Workshop on User Understanding from Big Data Workshop (U2BigData 2022)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2022](http://bigdataieee.org/BigData2022/).
 
+## Workshop Schedule (All times are in Japanese Time Zone (+9), Dec 17th, 2022 8:30am - 12:30pm)
+
+8:35-8:55 Prospect-Net: Top-K Retrieval Problem Using Prospect; Reza Yousefi Maragheh
+
+9:00-9:20 Understanding Levels of Automation in Human-Machine Collaboration&quot; Glaucia Melo
+
+9:25-9:45 Posteriori Trust: Behavior driven trust on a network graph at scale; Prince Paulraj, Elijah Hall, Ana Armenta, and Mark Austin
+
+9:50-10:10 A Short Survey on the User Cold Start Problem in Recommender Systems: Metadata and Meta-Learning Methods; Hao Jiang
+
+10:15-10:30 Coffee Break
+
+10:30-10:50 Blockchain based Secure Group Data Collaboration in Cloud with Differentially Private Synthetic Data and Trusted Execution Environment&quot; Uzair Javaid
+
+10:55-11:15 Where did you tweet from? Inferring the origin locations of tweets based on contextual information; Rabindra Lamsal
+
+11:20-11:40 KGIQ: Scalable Translation of User-Specified Examples into Knowledge-Graph Queries; Jing Ao
+
+11:45-12:05 Preserving Privacy Mining of Big Temporal Co-occurrence Patterns; Anifat Olawoyin
+
+12:10-12:15 Closing Remarks
+
 ## Call for Papers
 The availability of massive amounts of data has driven significant progress in the field of AI, in particular, data driven methods to understand human behavior has been an emerging topic in social science and human studies. Most internet companies need to leverage user level data from different sources to understand how users interact with their products in various scenarios and contexts. Quantitative techniques would increase generalizability of research conclusions regarding user mental models to provide frameworks for user understanding. On the other hand, large scale data can be critical to customize approaches in gaining user traction, improve user experience and monetization for different user groups. We’ve seen tremendous applications in this space, including but not limited to recommendation, marketing, online experiments, to name just a few. Fundamental understanding also requires methods such as statistical sampling, data visualization, funnel analysis, experimental design, causal inference etc.
 
