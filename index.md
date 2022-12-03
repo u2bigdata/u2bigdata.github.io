@@ -1,7 +1,7 @@
 ## The 3nd International Workshop on User Understanding from Big Data Workshop (U2BigData 2022)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2022](http://bigdataieee.org/BigData2022/).
 
-## Workshop Schedule (All times are in Japanese Time Zone (+9), Dec 17th, 2022 8:30am - 12:30pm)
+## Workshop Schedule (All times are in Japan Time Zone (+9), Dec 17th, 2022 8:30am - 12:30pm)
 
 8:35-8:55 Prospect-Net: Top-K Retrieval Problem Using Prospect; Reza Yousefi Maragheh
 
