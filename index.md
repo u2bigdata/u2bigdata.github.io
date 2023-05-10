@@ -36,8 +36,7 @@ Please submit a full-length paper (up to **10 page IEEE 2-column format**) throu
 
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
 
-### Formatting Instructions
-[8.5" x 11"] (https://www.ieee.org/conferences/publishing/templates.html)
+[Formatting Instructions](https://www.ieee.org/conferences/publishing/templates.html)
 
 ## Important dates 
 -	<span style="color:red"> Oct 27, 2023 </span>: Due date for full workshop papers submission
