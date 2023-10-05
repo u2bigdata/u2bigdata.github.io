@@ -60,7 +60,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Wenting Long, Post Doctoral Researcher, Yale
 - Jiexin Duan, Sr Financial Modeler, Moody's Corporation
 - Mi Feng, Sr Software Engineer, Twitter
-- Yaoli Mao, Senior Experience Design Researcher，Autodesk 
+- Yaoli Mao, Senior Experience Design Researcher, Autodesk 
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
