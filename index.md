@@ -1,4 +1,4 @@
-## The 5nd International Workshop on User Understanding from Big Data Workshop (U2BigData 2024)
+## The 5th International Workshop on User Understanding from Big Data Workshop (U2BigData 2024)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
 ## Call for Papers
