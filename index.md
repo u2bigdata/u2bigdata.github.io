@@ -40,7 +40,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 
 ## Important dates 
 -	<span style="color:red"> Oct 27, 2024 </span>: Due date for full workshop papers submission
--	<span style="color:red"> Nov 10, 2024 </span>: Notification of paper acceptance to authors
+-	<span style="color:red"> Nov 12, 2024 </span>: Notification of paper acceptance to authors
 -	<span style="color:red"> Nov 17, 2024 </span>: Camera-ready of accepted papers 
 -	<span style="color:red"> Dec 15-18, 2024</span>: Workshops
 
