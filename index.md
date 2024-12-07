@@ -1,6 +1,14 @@
 ## The 5th International Workshop on User Understanding from Big Data Workshop (U2BigData 2024)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
+## Workshop Schedule
+### Date: Dec 17, 2024 (Tue) All the times are EST
+### Location: Online [Link](https://cisco.webex.com/cisco/j.php?MTID=m9e14f547235a05afb640b5ce92b77d87)
+- 10:30 - 11:00 A Novel Hybrid Architectures for Overcoming Sparse Data in Subscription Product Recommendation Systems; Authors: Jinmo Kang, Sanghyeon Lee, Yeonghwan Jeon, Hyuncheol Jo, and Byoung-Ki Jeon
+- 11:00 - 11:30 Enhancing User Understanding with Big Data: A Comparative Study of Deep Learning and Statistical Methods for Forecasting Online Page Views; Authors: Xiaofei Hu, Le Zheng, and Ruomeng Zhang
+- 11:30 - 12:00 Context-Aware and User Intent-Aware Follow-Up Question Generation (CA-UIA-QG): Mimicking User Behavior in Multi-Turn Setting; Authors: Shujing Dong, Yuan Ling, Shunyan Luo, Shuyi Wang, Yarong Feng, Joe Liu, Hongfei Li, Ayush Goyal, and Bruce Ferry
+
+
 ## Call for Papers
 The availability of massive amounts of data has driven significant progress in the field of AI, in particular, data driven methods to understand human behavior has been an emerging topic in social science and human studies. Most internet companies need to leverage user level data from different sources to understand how users interact with their products in various scenarios and contexts. Quantitative techniques would increase generalizability of research conclusions regarding user mental models to provide frameworks for user understanding. On the other hand, large scale data can be critical to customize approaches in gaining user traction, improve user experience and monetization for different user groups. We’ve seen tremendous applications in this space, including but not limited to recommendation, marketing, online experiments, to name just a few. Fundamental understanding also requires methods such as statistical sampling, data visualization, funnel analysis, experimental design, causal inference etc.
 
