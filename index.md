@@ -4,9 +4,9 @@ This accepted workshop is to gain insights on how big data methodologies can be 
 ## Workshop Schedule
 ### Date: Dec 17, 2024 (Tue) All the times are EST
 ### Location: Online [Link](https://cisco.webex.com/cisco/j.php?MTID=m9e14f547235a05afb640b5ce92b77d87)
-- 10:30 - 11:00 A Novel Hybrid Architectures for Overcoming Sparse Data in Subscription Product Recommendation Systems; Authors: Jinmo Kang, Sanghyeon Lee, Yeonghwan Jeon, Hyuncheol Jo, and Byoung-Ki Jeon
-- 11:00 - 11:30 Enhancing User Understanding with Big Data: A Comparative Study of Deep Learning and Statistical Methods for Forecasting Online Page Views; Authors: Xiaofei Hu, Le Zheng, and Ruomeng Zhang
-- 11:30 - 12:00 Context-Aware and User Intent-Aware Follow-Up Question Generation (CA-UIA-QG): Mimicking User Behavior in Multi-Turn Setting; Authors: Shujing Dong, Yuan Ling, Shunyan Luo, Shuyi Wang, Yarong Feng, Joe Liu, Hongfei Li, Ayush Goyal, and Bruce Ferry
+- 10:30am - 11:00am A Novel Hybrid Architectures for Overcoming Sparse Data in Subscription Product Recommendation Systems; Authors: Jinmo Kang, Sanghyeon Lee, Yeonghwan Jeon, Hyuncheol Jo, and Byoung-Ki Jeon
+- 11:00am - 11:30am Enhancing User Understanding with Big Data: A Comparative Study of Deep Learning and Statistical Methods for Forecasting Online Page Views; Authors: Xiaofei Hu, Le Zheng, and Ruomeng Zhang
+- 11:30am - 12:00am Context-Aware and User Intent-Aware Follow-Up Question Generation (CA-UIA-QG): Mimicking User Behavior in Multi-Turn Setting; Authors: Shujing Dong, Yuan Ling, Shunyan Luo, Shuyi Wang, Yarong Feng, Joe Liu, Hongfei Li, Ayush Goyal, and Bruce Ferry
 
 
 ## Call for Papers
