@@ -63,6 +63,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Mi Feng, Sr Software Engineer, Twitter
 - Yaoli Mao, Senior Experience Design Researcher, Autodesk
 - Qi Duan, Senior Manager, advanced analytics, Walmart eCommerce
+- Danni Liu, Researcher, University of California, Irvine
 
 ## Contact Information
 - Email: u2bigdata@gmail.com
