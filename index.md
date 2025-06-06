@@ -1,13 +1,5 @@
-## The 5th International Workshop on User Understanding from Big Data Workshop (U2BigData 2024)
-This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
-
-## Workshop Schedule
-### Date: Dec 17, 2024 (Tue) All the times are EST
-### Location: Online [Link](https://cisco.webex.com/cisco/j.php?MTID=m9e14f547235a05afb640b5ce92b77d87)
-- 10:30am - 11:00am A Novel Hybrid Architectures for Overcoming Sparse Data in Subscription Product Recommendation Systems; Authors: Jinmo Kang, Sanghyeon Lee, Yeonghwan Jeon, Hyuncheol Jo, and Byoung-Ki Jeon
-- 11:00am - 11:30am Enhancing User Understanding with Big Data: A Comparative Study of Deep Learning and Statistical Methods for Forecasting Online Page Views; Authors: Xiaofei Hu, Le Zheng, and Ruomeng Zhang
-- 11:30am - 12:00am Context-Aware and User Intent-Aware Follow-Up Question Generation (CA-UIA-QG): Mimicking User Behavior in Multi-Turn Setting; Authors: Shujing Dong, Yuan Ling, Shunyan Luo, Shuyi Wang, Yarong Feng, Joe Liu, Hongfei Li, Ayush Goyal, and Bruce Ferry
-
+## The 6th International Workshop on User Understanding from Big Data Workshop (U2BigData 2025)
+This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/).
 
 ## Call for Papers
 The availability of massive amounts of data has driven significant progress in the field of AI, in particular, data driven methods to understand human behavior has been an emerging topic in social science and human studies. Most internet companies need to leverage user level data from different sources to understand how users interact with their products in various scenarios and contexts. Quantitative techniques would increase generalizability of research conclusions regarding user mental models to provide frameworks for user understanding. On the other hand, large scale data can be critical to customize approaches in gaining user traction, improve user experience and monetization for different user groups. We’ve seen tremendous applications in this space, including but not limited to recommendation, marketing, online experiments, to name just a few. Fundamental understanding also requires methods such as statistical sampling, data visualization, funnel analysis, experimental design, causal inference etc.
@@ -40,21 +32,22 @@ The topics for the workshop including but not limited to:
 ## Paper Submission
 Please submit a full-length paper (up to **10 page IEEE 2-column format**) through the online submission system.
 
-[Paper Submission Page](https://wi-lab.com/cyberchair/2024/bigdata24/index.php)
+[Paper Submission Page](https://wi-lab.com/cyberchair/2025/bigdata25/index.php)
 
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
 
 [Formatting Instructions](https://www.ieee.org/conferences/publishing/templates.html)
 
 ## Important dates 
--	<span style="color:red"> Oct 27, 2024 </span>: Due date for full workshop papers submission
--	<span style="color:red"> Nov 12, 2024 </span>: Notification of paper acceptance to authors
--	<span style="color:red"> Nov 17, 2024 </span>: Camera-ready of accepted papers 
--	<span style="color:red"> Dec 15-18, 2024</span>: Workshops
+-	<span style="color:red"> Oct 27, 2025 </span>: Due date for full workshop papers submission
+-	<span style="color:red"> Nov 12, 2025 </span>: Notification of paper acceptance to authors
+-	<span style="color:red"> Nov 17, 2025 </span>: Camera-ready of accepted papers 
+-	<span style="color:red"> Dec 8-11, 2025</span>: Workshops
 
 ## Program Chairs
--	Claire Ding, Senior Manager, Mobile Data at data.ai
--	Wutao Wei, Data Science Manager at Cisco Meraki
+-	Claire Ding, Senior Manager at Intuit
+-	Wutao Wei, Senior Data Science Manager at Cisco Meraki
+-	Bowei Xi, Associate Professor at Purdue University
 
 
 ## Program Committee Members
@@ -79,3 +72,4 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
  - [U2BigData 2021](http://u2bigdata.github.io/2021)
  - [U2BigData 2022](http://u2bigdata.github.io/2022)
  - [U2BigData 2023](http://u2bigdata.github.io/2023)
+ - [U2BigData 2024](http://u2bigdata.github.io/2024)
