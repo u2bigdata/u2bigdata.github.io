@@ -39,14 +39,14 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 [Formatting Instructions](https://www.ieee.org/conferences/publishing/templates.html)
 
 ## Important dates 
--	<span style="color:red"> Oct 27, 2025 </span>: Due date for full workshop papers submission
--	<span style="color:red"> Nov 12, 2025 </span>: Notification of paper acceptance to authors
--	<span style="color:red"> Nov 17, 2025 </span>: Camera-ready of accepted papers 
+-	<span style="color:red"> ~~Oct 27, 2025~~ Nov 4, 2025 (new date)</span>: Due date for full workshop papers submission
+-	<span style="color:red"> ~~Nov 12, 2025~~ Nov 17, 2025 (new date)</span>: Notification of paper acceptance to authors
+-	<span style="color:red"> ~~Nov 17, 2025~~ Nov 23, 2025 (new date)</span>: Camera-ready of accepted papers 
 -	<span style="color:red"> Dec 8-11, 2025</span>: Workshops
 
 ## Program Chairs
 -	Claire Ding, Senior Manager at Intuit
--	Wutao Wei, Senior Data Science Manager at Cisco Meraki
+-	Wutao Wei, Data Science Manager at Meta
 -	Bowei Xi, Associate Professor at Purdue University
 
 
