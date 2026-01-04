@@ -1,6 +1,10 @@
 ## The 6th International Workshop on User Understanding from Big Data Workshop (U2BigData 2025)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE Big Data Conference 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/).
 
+## Accepted Papers
+- Mahmut Aslan, Yekta Said Can, Efe Batur Giritli, and Mehmet Aktas, Balancing Recency and Order in Session Representations: A Temporal–Sequential Embedding Approach for Clickstream Analytics
+- Dharmendra Prajapat and Durga Toshniwal, Scalable Task-Oriented Dialogue Systems with Mixture of Experts and Offline Reinforcement Learning
+
 ## Call for Papers
 The availability of massive amounts of data has driven significant progress in the field of AI, in particular, data driven methods to understand human behavior has been an emerging topic in social science and human studies. Most internet companies need to leverage user level data from different sources to understand how users interact with their products in various scenarios and contexts. Quantitative techniques would increase generalizability of research conclusions regarding user mental models to provide frameworks for user understanding. On the other hand, large scale data can be critical to customize approaches in gaining user traction, improve user experience and monetization for different user groups. We’ve seen tremendous applications in this space, including but not limited to recommendation, marketing, online experiments, to name just a few. Fundamental understanding also requires methods such as statistical sampling, data visualization, funnel analysis, experimental design, causal inference etc.
 
@@ -8,7 +12,7 @@ This workshop aims to provide a platform for researchers from related fields to 
 
 Perspective and vision papers are also welcome. Finally, the workshop welcomes papers that describe the public release of privacy-preserving datasets that the community can use to solve fundamental technical problems of interest in user understanding.
 
-### Topics
+## Topics
 
 The topics for the workshop including but not limited to:
 - User targeting and segmentation
